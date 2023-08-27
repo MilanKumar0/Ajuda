@@ -1,0 +1,16 @@
+.navbar-brand{
+    font-size: 30px;
+    margin-left: 30px;
+  }
+  .nav-link{
+    font-size: 30px;
+    margin-left: 30px;
+  }
+  body{
+    background-color: white;
+    padding-top: 56px;
+  }
+  /* card group */
+  .feature1{
+    margin-left: auto;
+  }
